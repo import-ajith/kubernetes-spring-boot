@@ -18,3 +18,6 @@ Run the docker images
 docker run -dp 8080:8080 kubernetes-spring-boot:v1
 ```
 
+# Author
+
+Ajithlal
